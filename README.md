@@ -1,1 +1,1 @@
-Necessary to install https://github.com/ZQPei/deep_sort_pytorch to run the notebooks
+Results here: https://drive.google.com/drive/folders/1tFEq-CTv8fUiExRAB7wCad1OgGJaBi05?usp=drive_link
